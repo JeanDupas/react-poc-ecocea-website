@@ -106,7 +106,7 @@ export function ContactWizard() {
                     Merci de nous avoir contacté. Un expert Ecocea reviendra vers vous sous 24h ouvrées pour discuter de votre projet.
                 </p>
                 <Button onClick={() => window.location.href = "/"} variant="primary">
-                    Retour à l'accueil
+                    Retour à l&apos;accueil
                 </Button>
             </motion.div>
         )
@@ -149,7 +149,7 @@ export function ContactWizard() {
                             >
                                 <div className="space-y-2">
                                     <h2 className="text-2xl font-bold text-text-main">Quel type de projet avez-vous ?</h2>
-                                    <p className="text-text-muted">Sélectionnez le domaine d'expertise principal.</p>
+                                    <p className="text-text-muted">Sélectionnez le domaine d&apos;expertise principal.</p>
                                 </div>
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                                     {PROJECT_TYPES.map((type) => {

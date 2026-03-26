@@ -127,7 +127,7 @@ export default async function PostPage({ params }: PostPageProps) {
                     {/* Sidebar / Related */}
                     <aside className="lg:col-span-4 space-y-12">
                         <div className="bg-light-bg rounded-[2rem] p-8">
-                            <h3 className="text-xl font-bold text-text-main mb-6">À propos de l'auteur</h3>
+                            <h3 className="text-xl font-bold text-text-main mb-6">À propos de l&apos;auteur</h3>
                             <div className="flex items-center gap-4 mb-4">
                                 <div className="h-12 w-12 rounded-full bg-primary flex items-center justify-center text-accent font-bold">
                                     ET
@@ -138,7 +138,7 @@ export default async function PostPage({ params }: PostPageProps) {
                                 </div>
                             </div>
                             <p className="text-sm text-text-muted leading-relaxed">
-                                Passionnés par l'innovation, nous partageons nos retours d'XP pour vous aider à réussir vos projets les plus complexes.
+                                Passionnés par l&apos;innovation, nous partageons nos retours d&apos;XP pour vous aider à réussir vos projets les plus complexes.
                             </p>
                         </div>
 

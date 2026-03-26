@@ -10,5 +10,6 @@ interface MdxWrapperProps {
 
 export function MdxWrapper({ code }: MdxWrapperProps) {
     const Component = useMDXComponent(code)
+    // eslint-disable-next-line react-hooks/static-components -- useMDXComponent returns a pre-compiled component reference, not a new component created during render
     return <Component components={mdxComponents} />
 }

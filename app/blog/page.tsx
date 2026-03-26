@@ -56,7 +56,7 @@ function PostCard({ post }: { post: Post }) {
                         href={post.url}
                         className="inline-flex items-center gap-2 text-primary font-bold hover:gap-3 transition-all"
                     >
-                        Lire l'article
+                        Lire l&apos;article
                         <ArrowRight className="h-4 w-4" />
                     </Link>
                 </div>
@@ -92,7 +92,7 @@ export default function BlogPage() {
                         transition={{ duration: 0.6, delay: 0.1 }}
                         className="mx-auto max-w-2xl text-lg sm:text-xl text-white/70 text-balance"
                     >
-                        Découvrez nos analyses, conseils et retours d'expérience sur les dernières tendances technologiques.
+                        Découvrez nos analyses, conseils et retours d&apos;expérience sur les dernières tendances technologiques.
                     </motion.p>
                 </div>
             </section>

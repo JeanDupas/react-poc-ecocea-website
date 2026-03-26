@@ -23,7 +23,7 @@ export default function ContactPage() {
                             Prêt à <span className="text-secondary">innover</span> ?
                         </h1>
                         <p className="text-lg sm:text-xl text-white/70 text-balance">
-                            Dites-nous en plus sur vos ambitions. Notre équipe d'experts est prête à transformer vos défis techniques en succès commerciaux.
+                            Dites-nous en plus sur vos ambitions. Notre équipe d&apos;experts est prête à transformer vos défis techniques en succès commerciaux.
                         </p>
                     </div>
                 </div>
