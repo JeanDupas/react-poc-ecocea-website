@@ -1,0 +1,28 @@
+{
+  "title": "Top 5 des erreurs à éviter en E-commerce B2B",
+  "date": "2025-03-01T00:00:00.000Z",
+  "description": "Découvrez les pièges classiques de la vente en ligne en B2B et comment les transformer en avantages concurrentiels.",
+  "tags": [
+    "Ecommerce",
+    "B2B",
+    "Stratégie"
+  ],
+  "imageUrl": "/images/realisations/renault.png",
+  "author": "Ecocea Team",
+  "body": {
+    "raw": "\nLe e-commerce B2B n'est pas simplement une version complexifiée du B2C. C'est un monde avec ses propres codes, ses propres erreurs et surtout ses propres opportunités.\n\n## 1. Négliger la gestion des prix personnalisés\nEn B2B, le prix n'est pas toujours public. Les remises par volume ou par client sont la norme. Si votre plateforme ne gère pas nativement ces spécificités, vous perdez en crédibilité.\n\n## 2. Un tunnel d'achat trop rigide\nLa commande en un clic, c'est bien pour un livre. Pour 500 références industrielles, c'est le processus de validation qui prime.\n\n## 3. L'absence d'auto-service (Self-Service)\nVos clients veulent pouvoir télécharger leurs factures, consulter l'historique de commande ou renouveler un achat sans appeler un commercial.\n\n## 4. Une recherche interne défectueuse\nDans une plateforme avec 100 000 SKUs, la recherche est votre meilleur commercial. Elle doit être rapide, tolérante aux fautes et surtout contextuelle.\n\n## 5. Sous-estimer l'intégration avec l'ERP/PIM\nUne plateforme e-commerce B2B isolée est une coquille vide. L'intégration temps réel des stocks et des tarifs est critique.\n\n### Conclusion\nLe B2B demande une approche centrée sur l'efficacité métier. Évitez ces erreurs, et votre croissance suivra.\n",
+    "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),B=(r,e)=>{for(var t in e)i(r,t,{get:e[t],enumerable:!0})},o=(r,e,t,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of h(e))!f.call(r,s)&&s!==t&&i(r,s,{get:()=>e[s],enumerable:!(c=d(e,s))||c.enumerable});return r};var x=(r,e,t)=>(t=r!=null?m(v(r)):{},o(e||!r||!r.__esModule?i(t,\"default\",{value:r,enumerable:!0}):t,r)),L=r=>o(i({},\"__esModule\",{value:!0}),r);var a=g((q,l)=>{l.exports=_jsx_runtime});var j={};B(j,{default:()=>p,frontmatter:()=>_});var n=x(a()),_={title:\"Top 5 des erreurs \\xE0 \\xE9viter en E-commerce B2B\",date:\"2025-03-01\",description:\"D\\xE9couvrez les pi\\xE8ges classiques de la vente en ligne en B2B et comment les transformer en avantages concurrentiels.\",tags:[\"Ecommerce\",\"B2B\",\"Strat\\xE9gie\"],imageUrl:\"/images/realisations/renault.png\"};function u(r){let e={h2:\"h2\",h3:\"h3\",p:\"p\",...r.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Le e-commerce B2B n'est pas simplement une version complexifi\\xE9e du B2C. C'est un monde avec ses propres codes, ses propres erreurs et surtout ses propres opportunit\\xE9s.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"1. N\\xE9gliger la gestion des prix personnalis\\xE9s\"}),`\n`,(0,n.jsx)(e.p,{children:\"En B2B, le prix n'est pas toujours public. Les remises par volume ou par client sont la norme. Si votre plateforme ne g\\xE8re pas nativement ces sp\\xE9cificit\\xE9s, vous perdez en cr\\xE9dibilit\\xE9.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"2. Un tunnel d'achat trop rigide\"}),`\n`,(0,n.jsx)(e.p,{children:\"La commande en un clic, c'est bien pour un livre. Pour 500 r\\xE9f\\xE9rences industrielles, c'est le processus de validation qui prime.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"3. L'absence d'auto-service (Self-Service)\"}),`\n`,(0,n.jsx)(e.p,{children:\"Vos clients veulent pouvoir t\\xE9l\\xE9charger leurs factures, consulter l'historique de commande ou renouveler un achat sans appeler un commercial.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"4. Une recherche interne d\\xE9fectueuse\"}),`\n`,(0,n.jsx)(e.p,{children:\"Dans une plateforme avec 100 000 SKUs, la recherche est votre meilleur commercial. Elle doit \\xEAtre rapide, tol\\xE9rante aux fautes et surtout contextuelle.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"5. Sous-estimer l'int\\xE9gration avec l'ERP/PIM\"}),`\n`,(0,n.jsx)(e.p,{children:\"Une plateforme e-commerce B2B isol\\xE9e est une coquille vide. L'int\\xE9gration temps r\\xE9el des stocks et des tarifs est critique.\"}),`\n`,(0,n.jsx)(e.h3,{children:\"Conclusion\"}),`\n`,(0,n.jsx)(e.p,{children:\"Le B2B demande une approche centr\\xE9e sur l'efficacit\\xE9 m\\xE9tier. \\xC9vitez ces erreurs, et votre croissance suivra.\"})]})}function p(r={}){let{wrapper:e}=r.components||{};return e?(0,n.jsx)(e,{...r,children:(0,n.jsx)(u,{...r})}):u(r)}return L(j);})();\n;return Component;"
+  },
+  "_id": "blog/top-5-erreurs-ecommerce-b2b.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/top-5-erreurs-ecommerce-b2b.mdx",
+    "sourceFileName": "top-5-erreurs-ecommerce-b2b.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/top-5-erreurs-ecommerce-b2b"
+  },
+  "type": "Post",
+  "slug": "top-5-erreurs-ecommerce-b2b",
+  "url": "/blog/top-5-erreurs-ecommerce-b2b/",
+  "readingTime": 1
+}

@@ -1,0 +1,100 @@
+{
+  "cacheItemsMap": {
+    "blog/comment-ia-transforme-relation-client.mdx": {
+      "document": {
+        "title": "L'IA au service de la Relation Client",
+        "date": "2025-03-10T00:00:00.000Z",
+        "description": "Comment l'IA générative transforme le support client et personnalise l'expérience shopping de bout en bout.",
+        "tags": [
+          "IA",
+          "Relation Client",
+          "Innovation"
+        ],
+        "imageUrl": "/images/realisations/sephora.png",
+        "author": "Ecocea Team",
+        "body": {
+          "raw": "\nL'intelligence artificielle n'est plus un gadget. Elle redéfinit profondément la manière dont les marques interagissent avec leurs clients.\n\n## Personnalisation à l'échelle\nGrâce aux algorithmes de recommandation avancés, chaque client bénéficie d'une boutique personnalisée en fonction de ses préférences et de son historique.\n\n## Support 24/7 intelligent\nLes chatbots de nouvelle génération, basés sur les LLM, sont capables de résoudre des requites complexes tout en maintenant un ton humain et empathique.\n\n## Analyse de sentiment\nL'IA permet d'analyser en temps réel les retours clients sur les réseaux sociaux et les plateformes d'avis pour ajuster la stratégie marketing instantanément.\n",
+          "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),b=(n,e)=>{for(var s in e)r(n,s,{get:e[s],enumerable:!0})},o=(n,e,s,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of h(e))!x.call(n,i)&&i!==s&&r(n,i,{get:()=>e[i],enumerable:!(a=m(e,i))||a.enumerable});return n};var v=(n,e,s)=>(s=n!=null?p(g(n)):{},o(e||!n||!n.__esModule?r(s,\"default\",{value:n,enumerable:!0}):s,n)),L=n=>o(r({},\"__esModule\",{value:!0}),n);var c=f((A,l)=>{l.exports=_jsx_runtime});var j={};b(j,{default:()=>d,frontmatter:()=>_});var t=v(c()),_={title:\"L'IA au service de la Relation Client\",date:\"2025-03-10\",description:\"Comment l'IA g\\xE9n\\xE9rative transforme le support client et personnalise l'exp\\xE9rience shopping de bout en bout.\",tags:[\"IA\",\"Relation Client\",\"Innovation\"],imageUrl:\"/images/realisations/sephora.png\"};function u(n){let e={h2:\"h2\",p:\"p\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"L'intelligence artificielle n'est plus un gadget. Elle red\\xE9finit profond\\xE9ment la mani\\xE8re dont les marques interagissent avec leurs clients.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Personnalisation \\xE0 l'\\xE9chelle\"}),`\n`,(0,t.jsx)(e.p,{children:\"Gr\\xE2ce aux algorithmes de recommandation avanc\\xE9s, chaque client b\\xE9n\\xE9ficie d'une boutique personnalis\\xE9e en fonction de ses pr\\xE9f\\xE9rences et de son historique.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Support 24/7 intelligent\"}),`\n`,(0,t.jsx)(e.p,{children:\"Les chatbots de nouvelle g\\xE9n\\xE9ration, bas\\xE9s sur les LLM, sont capables de r\\xE9soudre des requites complexes tout en maintenant un ton humain et empathique.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Analyse de sentiment\"}),`\n`,(0,t.jsx)(e.p,{children:\"L'IA permet d'analyser en temps r\\xE9el les retours clients sur les r\\xE9seaux sociaux et les plateformes d'avis pour ajuster la strat\\xE9gie marketing instantan\\xE9ment.\"})]})}function d(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(u,{...n})}):u(n)}return L(j);})();\n;return Component;"
+        },
+        "_id": "blog/comment-ia-transforme-relation-client.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/comment-ia-transforme-relation-client.mdx",
+          "sourceFileName": "comment-ia-transforme-relation-client.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/comment-ia-transforme-relation-client"
+        },
+        "type": "Post",
+        "slug": "comment-ia-transforme-relation-client",
+        "readingTime": 1
+      },
+      "documentHash": "1772804305222",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "blog/migrer-vers-le-cloud-en-2025.mdx": {
+      "document": {
+        "title": "Pourquoi migrer vers le Cloud en 2025 ?",
+        "date": "2025-03-05T00:00:00.000Z",
+        "description": "Au-delà de la réduction des coûts, le Cloud est devenu le moteur principal de l'innovation et de la résilience.",
+        "tags": [
+          "Cloud",
+          "DevOps",
+          "Innovation"
+        ],
+        "imageUrl": "/images/services/cloud.png",
+        "author": "Ecocea Team",
+        "body": {
+          "raw": "\nAujourd'hui, la question n'est plus \"faut-il migrer ?\", mais \"comment migrer efficacement ?\". Le Cloud est devenu le socle indispensable de toute entreprise moderne.\n\n## Scalabilité et Agilité\nLe Cloud permet de répondre instantanément aux pics de charge sans investissement massif en infrastructure physique.\n\n## Sécurité et Conformité\nLes fournisseurs Cloud (AWS, Azure, GCP) offrent des standards de sécurité supérieurs à la plupart des infrastructures privées.\n\n### Stratégie Cloud-Native\nAdopter une approche Cloud-Native permet de tirer pleinement profit de l'automatisation et de la conteneurisation (Kubernetes, Docker).\n",
+          "code": "var Component=(()=>{var p=Object.create;var s=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var f=Object.getPrototypeOf,g=Object.prototype.hasOwnProperty;var C=(t,e)=>()=>(e||t((e={exports:{}}).exports,e),e.exports),v=(t,e)=>{for(var r in e)s(t,r,{get:e[r],enumerable:!0})},u=(t,e,r,o)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of h(e))!g.call(t,i)&&i!==r&&s(t,i,{get:()=>e[i],enumerable:!(o=m(e,i))||o.enumerable});return t};var x=(t,e,r)=>(r=t!=null?p(f(t)):{},u(e||!t||!t.__esModule?s(r,\"default\",{value:t,enumerable:!0}):r,t)),_=t=>u(s({},\"__esModule\",{value:!0}),t);var d=C((L,a)=>{a.exports=_jsx_runtime});var A={};v(A,{default:()=>c,frontmatter:()=>j});var n=x(d()),j={title:\"Pourquoi migrer vers le Cloud en 2025 ?\",date:\"2025-03-05\",description:\"Au-del\\xE0 de la r\\xE9duction des co\\xFBts, le Cloud est devenu le moteur principal de l'innovation et de la r\\xE9silience.\",tags:[\"Cloud\",\"DevOps\",\"Innovation\"],imageUrl:\"/images/services/cloud.png\"};function l(t){let e={h2:\"h2\",h3:\"h3\",p:\"p\",...t.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:`Aujourd'hui, la question n'est plus \"faut-il migrer ?\", mais \"comment migrer efficacement ?\". Le Cloud est devenu le socle indispensable de toute entreprise moderne.`}),`\n`,(0,n.jsx)(e.h2,{children:\"Scalabilit\\xE9 et Agilit\\xE9\"}),`\n`,(0,n.jsx)(e.p,{children:\"Le Cloud permet de r\\xE9pondre instantan\\xE9ment aux pics de charge sans investissement massif en infrastructure physique.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"S\\xE9curit\\xE9 et Conformit\\xE9\"}),`\n`,(0,n.jsx)(e.p,{children:\"Les fournisseurs Cloud (AWS, Azure, GCP) offrent des standards de s\\xE9curit\\xE9 sup\\xE9rieurs \\xE0 la plupart des infrastructures priv\\xE9es.\"}),`\n`,(0,n.jsx)(e.h3,{children:\"Strat\\xE9gie Cloud-Native\"}),`\n`,(0,n.jsx)(e.p,{children:\"Adopter une approche Cloud-Native permet de tirer pleinement profit de l'automatisation et de la conteneurisation (Kubernetes, Docker).\"})]})}function c(t={}){let{wrapper:e}=t.components||{};return e?(0,n.jsx)(e,{...t,children:(0,n.jsx)(l,{...t})}):l(t)}return _(A);})();\n;return Component;"
+        },
+        "_id": "blog/migrer-vers-le-cloud-en-2025.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/migrer-vers-le-cloud-en-2025.mdx",
+          "sourceFileName": "migrer-vers-le-cloud-en-2025.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/migrer-vers-le-cloud-en-2025"
+        },
+        "type": "Post",
+        "slug": "migrer-vers-le-cloud-en-2025",
+        "readingTime": 1
+      },
+      "documentHash": "1772804276991",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "blog/top-5-erreurs-ecommerce-b2b.mdx": {
+      "document": {
+        "title": "Top 5 des erreurs à éviter en E-commerce B2B",
+        "date": "2025-03-01T00:00:00.000Z",
+        "description": "Découvrez les pièges classiques de la vente en ligne en B2B et comment les transformer en avantages concurrentiels.",
+        "tags": [
+          "Ecommerce",
+          "B2B",
+          "Stratégie"
+        ],
+        "imageUrl": "/images/realisations/renault.png",
+        "author": "Ecocea Team",
+        "body": {
+          "raw": "\nLe e-commerce B2B n'est pas simplement une version complexifiée du B2C. C'est un monde avec ses propres codes, ses propres erreurs et surtout ses propres opportunités.\n\n## 1. Négliger la gestion des prix personnalisés\nEn B2B, le prix n'est pas toujours public. Les remises par volume ou par client sont la norme. Si votre plateforme ne gère pas nativement ces spécificités, vous perdez en crédibilité.\n\n## 2. Un tunnel d'achat trop rigide\nLa commande en un clic, c'est bien pour un livre. Pour 500 références industrielles, c'est le processus de validation qui prime.\n\n## 3. L'absence d'auto-service (Self-Service)\nVos clients veulent pouvoir télécharger leurs factures, consulter l'historique de commande ou renouveler un achat sans appeler un commercial.\n\n## 4. Une recherche interne défectueuse\nDans une plateforme avec 100 000 SKUs, la recherche est votre meilleur commercial. Elle doit être rapide, tolérante aux fautes et surtout contextuelle.\n\n## 5. Sous-estimer l'intégration avec l'ERP/PIM\nUne plateforme e-commerce B2B isolée est une coquille vide. L'intégration temps réel des stocks et des tarifs est critique.\n\n### Conclusion\nLe B2B demande une approche centrée sur l'efficacité métier. Évitez ces erreurs, et votre croissance suivra.\n",
+          "code": "var Component=(()=>{var m=Object.create;var i=Object.defineProperty;var d=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var v=Object.getPrototypeOf,f=Object.prototype.hasOwnProperty;var g=(r,e)=>()=>(e||r((e={exports:{}}).exports,e),e.exports),B=(r,e)=>{for(var t in e)i(r,t,{get:e[t],enumerable:!0})},o=(r,e,t,c)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let s of h(e))!f.call(r,s)&&s!==t&&i(r,s,{get:()=>e[s],enumerable:!(c=d(e,s))||c.enumerable});return r};var x=(r,e,t)=>(t=r!=null?m(v(r)):{},o(e||!r||!r.__esModule?i(t,\"default\",{value:r,enumerable:!0}):t,r)),L=r=>o(i({},\"__esModule\",{value:!0}),r);var a=g((q,l)=>{l.exports=_jsx_runtime});var j={};B(j,{default:()=>p,frontmatter:()=>_});var n=x(a()),_={title:\"Top 5 des erreurs \\xE0 \\xE9viter en E-commerce B2B\",date:\"2025-03-01\",description:\"D\\xE9couvrez les pi\\xE8ges classiques de la vente en ligne en B2B et comment les transformer en avantages concurrentiels.\",tags:[\"Ecommerce\",\"B2B\",\"Strat\\xE9gie\"],imageUrl:\"/images/realisations/renault.png\"};function u(r){let e={h2:\"h2\",h3:\"h3\",p:\"p\",...r.components};return(0,n.jsxs)(n.Fragment,{children:[(0,n.jsx)(e.p,{children:\"Le e-commerce B2B n'est pas simplement une version complexifi\\xE9e du B2C. C'est un monde avec ses propres codes, ses propres erreurs et surtout ses propres opportunit\\xE9s.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"1. N\\xE9gliger la gestion des prix personnalis\\xE9s\"}),`\n`,(0,n.jsx)(e.p,{children:\"En B2B, le prix n'est pas toujours public. Les remises par volume ou par client sont la norme. Si votre plateforme ne g\\xE8re pas nativement ces sp\\xE9cificit\\xE9s, vous perdez en cr\\xE9dibilit\\xE9.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"2. Un tunnel d'achat trop rigide\"}),`\n`,(0,n.jsx)(e.p,{children:\"La commande en un clic, c'est bien pour un livre. Pour 500 r\\xE9f\\xE9rences industrielles, c'est le processus de validation qui prime.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"3. L'absence d'auto-service (Self-Service)\"}),`\n`,(0,n.jsx)(e.p,{children:\"Vos clients veulent pouvoir t\\xE9l\\xE9charger leurs factures, consulter l'historique de commande ou renouveler un achat sans appeler un commercial.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"4. Une recherche interne d\\xE9fectueuse\"}),`\n`,(0,n.jsx)(e.p,{children:\"Dans une plateforme avec 100 000 SKUs, la recherche est votre meilleur commercial. Elle doit \\xEAtre rapide, tol\\xE9rante aux fautes et surtout contextuelle.\"}),`\n`,(0,n.jsx)(e.h2,{children:\"5. Sous-estimer l'int\\xE9gration avec l'ERP/PIM\"}),`\n`,(0,n.jsx)(e.p,{children:\"Une plateforme e-commerce B2B isol\\xE9e est une coquille vide. L'int\\xE9gration temps r\\xE9el des stocks et des tarifs est critique.\"}),`\n`,(0,n.jsx)(e.h3,{children:\"Conclusion\"}),`\n`,(0,n.jsx)(e.p,{children:\"Le B2B demande une approche centr\\xE9e sur l'efficacit\\xE9 m\\xE9tier. \\xC9vitez ces erreurs, et votre croissance suivra.\"})]})}function p(r={}){let{wrapper:e}=r.components||{};return e?(0,n.jsx)(e,{...r,children:(0,n.jsx)(u,{...r})}):u(r)}return L(j);})();\n;return Component;"
+        },
+        "_id": "blog/top-5-erreurs-ecommerce-b2b.mdx",
+        "_raw": {
+          "sourceFilePath": "blog/top-5-erreurs-ecommerce-b2b.mdx",
+          "sourceFileName": "top-5-erreurs-ecommerce-b2b.mdx",
+          "sourceFileDir": "blog",
+          "contentType": "mdx",
+          "flattenedPath": "blog/top-5-erreurs-ecommerce-b2b"
+        },
+        "type": "Post",
+        "slug": "top-5-erreurs-ecommerce-b2b",
+        "readingTime": 1
+      },
+      "documentHash": "1772804268997",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    }
+  }
+}

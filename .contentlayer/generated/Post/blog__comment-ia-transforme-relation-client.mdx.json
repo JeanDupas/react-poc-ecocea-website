@@ -1,0 +1,28 @@
+{
+  "title": "L'IA au service de la Relation Client",
+  "date": "2025-03-10T00:00:00.000Z",
+  "description": "Comment l'IA générative transforme le support client et personnalise l'expérience shopping de bout en bout.",
+  "tags": [
+    "IA",
+    "Relation Client",
+    "Innovation"
+  ],
+  "imageUrl": "/images/realisations/sephora.png",
+  "author": "Ecocea Team",
+  "body": {
+    "raw": "\nL'intelligence artificielle n'est plus un gadget. Elle redéfinit profondément la manière dont les marques interagissent avec leurs clients.\n\n## Personnalisation à l'échelle\nGrâce aux algorithmes de recommandation avancés, chaque client bénéficie d'une boutique personnalisée en fonction de ses préférences et de son historique.\n\n## Support 24/7 intelligent\nLes chatbots de nouvelle génération, basés sur les LLM, sont capables de résoudre des requites complexes tout en maintenant un ton humain et empathique.\n\n## Analyse de sentiment\nL'IA permet d'analyser en temps réel les retours clients sur les réseaux sociaux et les plateformes d'avis pour ajuster la stratégie marketing instantanément.\n",
+    "code": "var Component=(()=>{var p=Object.create;var r=Object.defineProperty;var m=Object.getOwnPropertyDescriptor;var h=Object.getOwnPropertyNames;var g=Object.getPrototypeOf,x=Object.prototype.hasOwnProperty;var f=(n,e)=>()=>(e||n((e={exports:{}}).exports,e),e.exports),b=(n,e)=>{for(var s in e)r(n,s,{get:e[s],enumerable:!0})},o=(n,e,s,a)=>{if(e&&typeof e==\"object\"||typeof e==\"function\")for(let i of h(e))!x.call(n,i)&&i!==s&&r(n,i,{get:()=>e[i],enumerable:!(a=m(e,i))||a.enumerable});return n};var v=(n,e,s)=>(s=n!=null?p(g(n)):{},o(e||!n||!n.__esModule?r(s,\"default\",{value:n,enumerable:!0}):s,n)),L=n=>o(r({},\"__esModule\",{value:!0}),n);var c=f((A,l)=>{l.exports=_jsx_runtime});var j={};b(j,{default:()=>d,frontmatter:()=>_});var t=v(c()),_={title:\"L'IA au service de la Relation Client\",date:\"2025-03-10\",description:\"Comment l'IA g\\xE9n\\xE9rative transforme le support client et personnalise l'exp\\xE9rience shopping de bout en bout.\",tags:[\"IA\",\"Relation Client\",\"Innovation\"],imageUrl:\"/images/realisations/sephora.png\"};function u(n){let e={h2:\"h2\",p:\"p\",...n.components};return(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)(e.p,{children:\"L'intelligence artificielle n'est plus un gadget. Elle red\\xE9finit profond\\xE9ment la mani\\xE8re dont les marques interagissent avec leurs clients.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Personnalisation \\xE0 l'\\xE9chelle\"}),`\n`,(0,t.jsx)(e.p,{children:\"Gr\\xE2ce aux algorithmes de recommandation avanc\\xE9s, chaque client b\\xE9n\\xE9ficie d'une boutique personnalis\\xE9e en fonction de ses pr\\xE9f\\xE9rences et de son historique.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Support 24/7 intelligent\"}),`\n`,(0,t.jsx)(e.p,{children:\"Les chatbots de nouvelle g\\xE9n\\xE9ration, bas\\xE9s sur les LLM, sont capables de r\\xE9soudre des requites complexes tout en maintenant un ton humain et empathique.\"}),`\n`,(0,t.jsx)(e.h2,{children:\"Analyse de sentiment\"}),`\n`,(0,t.jsx)(e.p,{children:\"L'IA permet d'analyser en temps r\\xE9el les retours clients sur les r\\xE9seaux sociaux et les plateformes d'avis pour ajuster la strat\\xE9gie marketing instantan\\xE9ment.\"})]})}function d(n={}){let{wrapper:e}=n.components||{};return e?(0,t.jsx)(e,{...n,children:(0,t.jsx)(u,{...n})}):u(n)}return L(j);})();\n;return Component;"
+  },
+  "_id": "blog/comment-ia-transforme-relation-client.mdx",
+  "_raw": {
+    "sourceFilePath": "blog/comment-ia-transforme-relation-client.mdx",
+    "sourceFileName": "comment-ia-transforme-relation-client.mdx",
+    "sourceFileDir": "blog",
+    "contentType": "mdx",
+    "flattenedPath": "blog/comment-ia-transforme-relation-client"
+  },
+  "type": "Post",
+  "slug": "comment-ia-transforme-relation-client",
+  "url": "/blog/comment-ia-transforme-relation-client/",
+  "readingTime": 1
+}
