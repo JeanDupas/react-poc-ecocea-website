@@ -21,6 +21,7 @@ export function useCountUp({ end, duration = 2000, startOnView = true }: UseCoun
     useEffect(() => {
         // If reduced motion is preferred, immediately set to end value
         if (shouldReduceMotion) {
+            // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: immediately set final value to skip animation when reduced-motion is preferred
             setCount(end)
             setHasAnimated(true)
             return

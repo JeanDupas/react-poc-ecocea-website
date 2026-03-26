@@ -6,7 +6,11 @@ const nextConfig: NextConfig = {
     basePath: process.env.NEXT_PUBLIC_BASE_PATH ?? '',
     trailingSlash: true,
     images: {
-        unoptimized: true, // required for static export
+        // Custom loader prepends NEXT_PUBLIC_BASE_PATH so images resolve correctly
+        // on GitHub Pages (subdirectory deployment). `unoptimized: true` bypasses
+        // all loaders and omits the basePath prefix, so we use a loader instead.
+        loader: "custom",
+        loaderFile: "./lib/imageLoader.ts",
     },
     // react-best-practices: bundle-barrel-imports
     // optimizePackageImports auto-transforms barrel imports to direct imports at build time
