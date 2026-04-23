@@ -8,6 +8,10 @@ out/
 # Contentlayer
 .contentlayer/
 
+# Playwright
+.playwright-report/
+.test-results/
+
 # Build
 build/
 dist/
